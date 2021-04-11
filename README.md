@@ -10,3 +10,4 @@ This bash script only takes one argument, namely the destination target domain.
 ### Examples
 This is the route when connecting to namecheap.com from amsterdam
 ![namecheap.com](route-namecheap.png)
+
